@@ -1,4 +1,4 @@
-# About 👋
+# About Me
 Hello❗
 
 I'm Dominic, an aspiring cybersecurity analyst, computer science student, and tinkerer. 
@@ -6,6 +6,45 @@ I'm Dominic, an aspiring cybersecurity analyst, computer science student, and ti
 Go ahead and visit my [personal website!](https://dominicorsi.com)
 
 ![](https://komarev.com/ghpvc/?username=dominicorsi&style=for-the-badge)
+
+## Projects
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/dominicorsi/f1-stats-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dominicorsi&repo=F1-Stats-App&theme=apprentice" alt="F1-Stats-Card" width="350" >
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dominicorsi/Multiplayer-Yahtzee">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dominicorsi&repo=Multiplayer-Yahtzee&theme=apprentice" alt="Multiplayer-Yahtzee" width="350" >
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/DominicOrsi/Apache-Guacamole-Server">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dominicorsi&repo=Apache-Guacamole-Server&theme=apprentice" alt="Apache-Guacamole-Server" width="350" >
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/DominicOrsi/Linux-Mint-Setup">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dominicorsi&repo=Linux-Mint-Setup&theme=apprentice" alt="Linux-Mint-Setup" width="350">
+      </a>
+    </td>
+  </tr>
+  <tr style="text-align: center">
+    <td colspan="2">
+      <a href="https://github.com/DominicOrsi/DominicOrsi.com">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DominicOrsi&repo=DominicOrsi.com&theme=apprentice" alt="DominicOrsi.com" width="400" >
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 ## Tools
 ### Languages
@@ -15,7 +54,7 @@ Go ahead and visit my [personal website!](https://dominicorsi.com)
 ### Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ### Clustering
-![Slurm](https://img.shields.io/badge/slurm-blue?style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Slurm](https://img.shields.io/badge/slurm-blue?style=for-the-badge)
 
 ### Cloud
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black) ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -31,8 +70,8 @@ Go ahead and visit my [personal website!](https://dominicorsi.com)
 
 
 ## Learning
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
 ## Some Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dominicorsi&theme=blue-green)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dominicorsi&theme=apprentice)
