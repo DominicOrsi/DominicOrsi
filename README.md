@@ -1,7 +1,7 @@
 # About Me 👨‍💻
 Hello❗
 
-I'm Dominic, an aspiring cybersecurity analyst, computer science student, and tinkerer. 
+I'm Dominic, some guy on the internet, tinker, and learner. 
 
 Go ahead and visit my personal website!
 
