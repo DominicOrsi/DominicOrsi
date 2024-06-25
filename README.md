@@ -1,7 +1,7 @@
 # About Me 👨‍💻
 Hello❗
 
-I'm Dominic, some guy on the internet, tinker, and learner. 
+I'm Dominic, (yea that is me) also a tinkerer and learner. 
 
 Go ahead and visit my personal website!
 
