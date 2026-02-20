@@ -14,7 +14,6 @@ I am currently learning with the following:
 - Networking
 - Server Administration
 - Cybersecurity
-- Solaris 👽
 - Go
 
 ![](https://komarev.com/ghpvc/?username=dominicorsi&style=for-the-badge)
