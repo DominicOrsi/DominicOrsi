@@ -1,5 +1,5 @@
 ## Introduction
-Hello! My name is Dominic Orsi and I'm a Unix Sys Admin. I enjoy building and tinkering with things just to learn about them as one learns the most from getting their hands dirty.
+Hello! My name is Dominic Orsi and I'm a Linux Systems Engineer building and tinkering with things just to learn about them as one learns the most from getting their hands dirty.
 
 >"One learns from books and examples only that certain things can be done. Actual learning requires that you do those things"
 >
